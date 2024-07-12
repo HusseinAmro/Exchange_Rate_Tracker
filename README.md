@@ -1,6 +1,6 @@
 # Exchange_Rate_Tracker
 
-This project is part of the EECE 430L – Web, Mobile, and Application Development Lab course at the American University of Beirut (AUB). Throughout this course, we developed a comprehensive currency exchange platform, starting from a basic website to fully functional web, mobile, and desktop applications, integrated with a backend server. 
+This project is part of the EECE 430L – Web, Mobile, and Application Development Lab course at the American University of Beirut (AUB). Throughout this course, each student individually developed a comprehensive currency exchange platform, starting from a basic website to fully functional web, mobile, and desktop applications, integrated with a backend server. 
 
 ## Overview
 
