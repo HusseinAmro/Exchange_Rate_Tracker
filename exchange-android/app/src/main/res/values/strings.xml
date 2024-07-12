@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string-array name="options">
+        <item>USD to LBP</item>
+        <item>LBP to USD</item>
+    </string-array>
+</resources>
